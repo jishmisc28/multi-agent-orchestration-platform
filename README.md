@@ -4,9 +4,9 @@ A platform to **create AI agents**, **configure behavior** (prompts, tools, memo
 
 | | |
 |---|---|
-| **Author** | Abhranshu ([@jishmisc28](https://github.com/jishmisc28)) |
+| **Author** | Abhranshu Mishra ([@jishmisc28](https://github.com/jishmisc28)) |
 | **Live demo** | **[multi-agent-orchestration-platform.vercel.app](https://multi-agent-orchestration-platform.vercel.app)** |
-| **Walkthrough** | *[Demo video link — add when ready]* |
+| **Walkthrough** | **[Demo video](./demo/demo.mp4)** (3 min — platform tour) |
 | **Architecture** | [docs/ARCHITECTURE.md](./docs/ARCHITECTURE.md) |
 
 ---
