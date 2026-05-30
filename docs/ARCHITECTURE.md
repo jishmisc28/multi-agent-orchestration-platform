@@ -1,7 +1,7 @@
 # Architecture & Design
 
 **Multi-Agent Orchestration Platform**  
-**Author:** Abhranshu Mishra · **Version:** 1.0 · May 2026
+**Author:** Abhranshu · **Version:** 1.0 · May 2026
 
 > Export tip: open in GitHub or VS Code → Print / Save as PDF (enable background graphics for diagrams).
 
